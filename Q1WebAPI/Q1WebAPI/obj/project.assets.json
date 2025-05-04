@@ -8073,11 +8073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\CSE441_MobilePrograming_Lab2\\Q1WebAPI\\Q1WebAPI\\Q1WebAPI\\Q1WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\CSE441_MobilePrograming_Lab2\\Q1WebAPI\\Q1WebAPI\\Q1WebAPI.csproj",
       "projectName": "Q1WebAPI",
-      "projectPath": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\CSE441_MobilePrograming_Lab2\\Q1WebAPI\\Q1WebAPI\\Q1WebAPI\\Q1WebAPI.csproj",
+      "projectPath": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\CSE441_MobilePrograming_Lab2\\Q1WebAPI\\Q1WebAPI\\Q1WebAPI.csproj",
       "packagesPath": "C:\\Users\\KHANH MINH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\CSE441_MobilePrograming_Lab2\\Q1WebAPI\\Q1WebAPI\\Q1WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\CSE441_MobilePrograming_Lab2\\Q1WebAPI\\Q1WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
