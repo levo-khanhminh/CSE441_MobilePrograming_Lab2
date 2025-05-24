@@ -1,6 +1,15 @@
 import { useState } from "react";
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 
+interface Person {
+  name: string;
+  age: number;
+}
+interface Product {
+  name: string;
+  price: number;
+  quantity: number;
+}
 export default function HomeScreen() {
   const [displayValue, setDisplayValue] = useState("0");
   const [operator, setOperator] = useState<string | null>(null);
@@ -13,6 +22,7 @@ export default function HomeScreen() {
       setDisplayValue(displayValue + num);
     }
   };
+
   const handleOperatorInput = (operator: string | null) => {
     setOperator(operator);
     setFirstValue(displayValue);
